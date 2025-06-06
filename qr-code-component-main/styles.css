@@ -1,0 +1,40 @@
+.card {
+  width: 320px;
+  height: 500px;
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+  margin: 10% 40% 5% 550px;
+  border-radius: 15px;
+  padding-top: 15px;
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+
+.main-text {
+  font-size: 20px;
+  color: hsl(218, 44%, 22%);
+  padding-left: 25px;
+  padding-right: 25px;
+  font-weight: 800;
+  font-family: outfit;
+}
+
+#secondary-text {
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  padding: 0 20px;
+  font-weight: 400;
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+}
